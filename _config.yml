@@ -14,13 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Erdi's Site
+email: contact@erdi.online
 description: >- # this means to ignore newlines until "baseurl:"
   This is the site of a Spigot/Bukkit developer with the username Erdi__ on SpigotMC.org
   The blog present on the site will contain information and updates about Erdi's plugins and freelance availability
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://www.erdi.online" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Erdi-GitHub
-
+discord_username: _erdi
 # Build settings
 markdown: kramdown
 theme: minima
