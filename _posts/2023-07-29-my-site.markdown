@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "My Site!"
+date:   2023-07-29 12:31:00 +0200
+categories: site
+---
+
+Yup, I have a site now. And you're (probably) on it right now, welcome!  
+I will be posting updates on my plugins and other development on this blog! Stay tuned if you're interested in that :)
