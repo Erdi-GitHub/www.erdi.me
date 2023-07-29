@@ -15,6 +15,6 @@ If you do choose to donate, I would be very grateful!
 
 <div align="center">
     <a href="https://paypal.me/erdiperdi/4.2" target="_blank">
-        <img src="/assets/paypal-donate.png" width="200" />
+        <img src="../assets/paypal-donate.png" width="200" />
     </a>
 </div>
