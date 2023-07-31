@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Erdi's Site
 email: contact@erdi.online
+author: Erdi
 description: |
   This is the site of a Spigot/Bukkit developer with the username Erdi__ on SpigotMC.org.
   The blog present on the site will contain information and updates about Erdi's plugins and freelance availability
