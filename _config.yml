@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Erdi's Site
-email: contact@erdi.online
+email: contact@erdi.me
 author: Erdi
 description: |
   This is the site of a Spigot/Bukkit developer with the username Erdi__ on SpigotMC.org.
