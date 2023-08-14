@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Erdi's Site
+title: Erdi
 email: contact@erdi.me
 author: Erdi
 description: |
-  This is the site of a Spigot/Bukkit developer with the username Erdi__ on SpigotMC.org.
+  Erdi's site (Erdi__ on SpigotMC.org, Bukkit / Spigot plugin developer).
   The blog present on the site will contain information and updates about Erdi's plugins and freelance availability
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://www.erdi.me" # the base hostname & protocol for your site, e.g. http://example.com
