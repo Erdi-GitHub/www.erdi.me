@@ -40,5 +40,4 @@ I've an extensive amount of experience in Spigot development, Java, and programm
 I am communicative. I'm open to any idea and will make sure what you get is what you want.
 
 # Contact
-Check the [Contact Page]({{ "/contact" | relative_url }}).  
-Not available for work from Aug 22 - Aug 29
+Check the [Contact Page]({{ "/contact" | relative_url }}).
