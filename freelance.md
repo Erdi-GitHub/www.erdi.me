@@ -13,17 +13,17 @@ I'm a European developer with 7+ years of experience, nearly half of that being 
 I'll either do $10/hr or flat-rate prices, the choice is yours on which you're most comfortable with.  
 Pricing varies by project and is negotiable, although as a general rule of thumb my pricing ranges are such:
 
-Small projects (Simple Commands, Simple Event Manipulation, ...): <span style="color: aqua;">Free</span><span style="color: gray;">*</span> <span style="color: green;"><span style="color: lightgreen;">or</span> $15 - $60</span>  
+Small projects (Simple Commands, Simple Event Manipulation, ...): <span style="color: aqua;">Free</span><span style="color: gray;">*</span> <span style="color: green;"><span style="color: lightgreen;">or</span> $15 - $30</span>  
 
 - Estimated delivery: 1-2 days (varying on complexity)
 
 
-Advanced projects (Advanced Commands, GUIs, ...): <span style="color: green;">$65 - $150</span>
+Advanced projects (Advanced Commands, GUIs, ...): <span style="color: green;">$30 - $60</span>
 
 - Estimated delivery: 1-5 days (varying on complexity)
 
 
-Larger projects: <span style="color: green;">$150+</span>
+Larger projects: <span style="color: green;">$80+</span>
 
 - Estimated delivery: 1+ week(s) (varying on complexity)
 
