@@ -182,6 +182,7 @@ sys	0m0.087s
 Let's run it!
 ```bash
 $ time java HelloWorld
+Hello World!
 
 real	0m0.045s
 user	0m0.015s
