@@ -5,7 +5,7 @@ date:   2024-01-24 18:21:00 +0100
 categories: projects
 ---
 
-Before reading this, I recommend reading "[BF to Java Compiler!]({{ "/2024/01/23/bf2jc" | relative_url }})".  
+Before reading this, I recommend reading "[BF to Java Compiler!]({{ "/projects/2024/01/23/bf2jc" | relative_url }})".  
   
 Welp. What's new?  
 First thing's first, the tape implementation in v1.0.0 was scuffed. Now that's fixed, in more ways than one, it uses a fixed-length array this time and actually wraps the pointer around like most BF interpreters tend to do.  
